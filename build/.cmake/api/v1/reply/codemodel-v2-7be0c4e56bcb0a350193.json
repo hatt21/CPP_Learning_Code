@@ -1,0 +1,438 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "chap-01",
+					"jsonFile" : "directory-chap-01-Debug-b5bfb364448882566681.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chap-01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "chap-02",
+					"jsonFile" : "directory-chap-02-Debug-1ee614f436994a6c2a8d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chap-02",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "chap-03",
+					"jsonFile" : "directory-chap-03-Debug-6abb2ebf2ea67490ba44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chap-03",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				},
+				{
+					"build" : "chap-04",
+					"jsonFile" : "directory-chap-04-Debug-0c63705eb1d76cc6fab2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chap-04",
+					"targetIndexes" : 
+					[
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "chap-05",
+					"jsonFile" : "directory-chap-05-Debug-c8df1a1a312aacfa4f38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chap-05",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "tp-01",
+					"jsonFile" : "directory-tp-01-Debug-b16891e6bc10a040eb8a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp-01",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "tp-02",
+					"jsonFile" : "directory-tp-02-Debug-a7449c8e883b671bc40e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp-02",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "tp-03",
+					"jsonFile" : "directory-tp-03-Debug-0d924baa574e57c36f8a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp-03",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "tp-04",
+					"jsonFile" : "directory-tp-04-Debug-109bdb9ac7fbed8f41fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp-04",
+					"targetIndexes" : 
+					[
+						25,
+						26
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "Cours-CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "c1-1-hello_world::@7629f3649c22beb10dab",
+					"jsonFile" : "target-c1-1-hello_world-Debug-b07929caaf2bc3fe3692.json",
+					"name" : "c1-1-hello_world",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "c1-2-parrot::@7629f3649c22beb10dab",
+					"jsonFile" : "target-c1-2-parrot-Debug-20a3aea3678273f6820e.json",
+					"name" : "c1-2-parrot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "c1-3-array::@7629f3649c22beb10dab",
+					"jsonFile" : "target-c1-3-array-Debug-5a98d209ca19b0c67bcc.json",
+					"name" : "c1-3-array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "c1-4-calculator::@7629f3649c22beb10dab",
+					"jsonFile" : "target-c1-4-calculator-Debug-664b8cc4b80da1d9c21d.json",
+					"name" : "c1-4-calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "c2-1-first_class::@a6127388d40f1c2d44c9",
+					"jsonFile" : "target-c2-1-first_class-Debug-d289dc6105a04164fb7d.json",
+					"name" : "c2-1-first_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "c2-2-constructor::@a6127388d40f1c2d44c9",
+					"jsonFile" : "target-c2-2-constructor-Debug-799a24a8e2dd0d18fd72.json",
+					"name" : "c2-2-constructor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "c2-3-clone::@a6127388d40f1c2d44c9",
+					"jsonFile" : "target-c2-3-clone-Debug-1317a13c2236d81d3970.json",
+					"name" : "c2-3-clone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "c2-4-rectangle::@a6127388d40f1c2d44c9",
+					"jsonFile" : "target-c2-4-rectangle-Debug-571ebc27bcd7c2e9d716.json",
+					"name" : "c2-4-rectangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "c2-5-polygon::@a6127388d40f1c2d44c9",
+					"jsonFile" : "target-c2-5-polygon-Debug-0e19bc95fbc771fff75f.json",
+					"name" : "c2-5-polygon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "c3-1-box::@2a84e909cf1df38d9c97",
+					"jsonFile" : "target-c3-1-box-Debug-f6bd62d77608ac456421.json",
+					"name" : "c3-1-box",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "c3-3-bag::@2a84e909cf1df38d9c97",
+					"jsonFile" : "target-c3-3-bag-Debug-ae99c3d88f38a3d76636.json",
+					"name" : "c3-3-bag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "c3-3-cat::@2a84e909cf1df38d9c97",
+					"jsonFile" : "target-c3-3-cat-Debug-8d1feebe97dfc1397f5d.json",
+					"name" : "c3-3-cat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "c3-4-inplace::@2a84e909cf1df38d9c97",
+					"jsonFile" : "target-c3-4-inplace-Debug-689bcd16bed4b39bf1e7.json",
+					"name" : "c3-4-inplace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "c3-5-move::@2a84e909cf1df38d9c97",
+					"jsonFile" : "target-c3-5-move-Debug-7707e354e56b7cec9910.json",
+					"name" : "c3-5-move",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "c4-1-hierarchy::@85cb1f29f96f31c79c93",
+					"jsonFile" : "target-c4-1-hierarchy-Debug-314720b83f5689b2efd2.json",
+					"name" : "c4-1-hierarchy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "c4-2-farm::@85cb1f29f96f31c79c93",
+					"jsonFile" : "target-c4-2-farm-Debug-fe5cc68b26ebe1d68eaa.json",
+					"name" : "c4-2-farm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "c4-3-vehicles::@85cb1f29f96f31c79c93",
+					"jsonFile" : "target-c4-3-vehicles-Debug-0486b905ac7718334c2d.json",
+					"name" : "c4-3-vehicles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "c5-1-vectors::@4c75e26bf45bb2c651c5",
+					"jsonFile" : "target-c5-1-vectors-Debug-b1462e588b0533c6cafb.json",
+					"name" : "c5-1-vectors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "c5-2-sequentials::@4c75e26bf45bb2c651c5",
+					"jsonFile" : "target-c5-2-sequentials-Debug-251a9799010f4e1d9a7e.json",
+					"name" : "c5-2-sequentials",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "c5-3-associatives::@4c75e26bf45bb2c651c5",
+					"jsonFile" : "target-c5-3-associatives-Debug-cfba25dc23a188d45835.json",
+					"name" : "c5-3-associatives",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "c5-4-strings::@4c75e26bf45bb2c651c5",
+					"jsonFile" : "target-c5-4-strings-Debug-f4d9ea776c3f7ae5e9cf.json",
+					"name" : "c5-4-strings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "c5-5-tuples::@4c75e26bf45bb2c651c5",
+					"jsonFile" : "target-c5-5-tuples-Debug-feb06b2a997923fb2129.json",
+					"name" : "c5-5-tuples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "tp1-translator::@ab46cebc96d6138819b0",
+					"jsonFile" : "target-tp1-translator-Debug-d1147870a4cfe3bd1b31.json",
+					"name" : "tp1-translator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "tp2-reminders::@6d1da0f0fef2105a863b",
+					"jsonFile" : "target-tp2-reminders-Debug-9589baa07c1ad4c53bb7.json",
+					"name" : "tp2-reminders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "tp3-pokemons::@541a5638708d6127e194",
+					"jsonFile" : "target-tp3-pokemons-Debug-2d8ad3d0e3d0d14bd365.json",
+					"name" : "tp3-pokemons",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tp4-phonecalls::@2dc32bdf911ec2bdf4f7",
+					"jsonFile" : "target-tp4-phonecalls-Debug-5acb04d62c943a1e6913.json",
+					"name" : "tp4-phonecalls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tp4-shapes::@2dc32bdf911ec2bdf4f7",
+					"jsonFile" : "target-tp4-shapes-Debug-ef47a3bf045028d451cc.json",
+					"name" : "tp4-shapes",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hugoattal/Documents/universit\u00e9/M1/s2/c++/CPP_Learning_Code/build",
+		"source" : "/Users/hugoattal/Documents/universit\u00e9/M1/s2/c++/CPP_Learning_Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

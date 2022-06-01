@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-01",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c1-1-hello_world.dir/1-hello_world.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/1-hello_world.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/1-hello_world.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-01",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c1-2-parrot.dir/2-parrot.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/2-parrot.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/2-parrot.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-01",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c1-3-array.dir/3-array.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/3-array.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/3-array.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-01",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c1-4-calculator.dir/4-calculator.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/4-calculator.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-01/4-calculator.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-1-first_class.dir/1-first_class.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/1-first_class.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/1-first_class.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-2-constructor.dir/2-constructor.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/2-constructor.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/2-constructor.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-3-clone.dir/3-clone.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/3-clone.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/3-clone.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-4-rectangle.dir/4-rectangle/main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/4-rectangle/main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/4-rectangle/main.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-4-rectangle.dir/4-rectangle/Rectangle.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/4-rectangle/Rectangle.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/4-rectangle/Rectangle.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-5-polygon.dir/5-polygon/main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/5-polygon/main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/5-polygon/main.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c2-5-polygon.dir/5-polygon/Polygon.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/5-polygon/Polygon.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-02/5-polygon/Polygon.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c3-1-box.dir/1-lifespan/Box.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/1-lifespan/Box.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/1-lifespan/Box.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c3-3-cat.dir/3-allocation/Cat.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/3-allocation/Cat.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/3-allocation/Cat.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c3-3-bag.dir/3-allocation/Bag.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/3-allocation/Bag.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/3-allocation/Bag.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c3-4-inplace.dir/4-move/InPlace.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/4-move/InPlace.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/4-move/InPlace.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c3-5-move.dir/4-move/Move.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/4-move/Move.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-03/4-move/Move.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-1-hierarchy.dir/1-hierarchy/Hierarchy.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Hierarchy.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Hierarchy.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-1-hierarchy.dir/1-hierarchy/Boss.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Boss.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Boss.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-1-hierarchy.dir/1-hierarchy/Staff.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Staff.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Staff.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-1-hierarchy.dir/1-hierarchy/Intern.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Intern.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/1-hierarchy/Intern.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-2-farm.dir/2-farm/FarmHouse.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/2-farm/FarmHouse.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/2-farm/FarmHouse.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c4-3-vehicles.dir/3-vehicles/Program.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/3-vehicles/Program.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-04/3-vehicles/Program.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-05",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c5-1-vectors.dir/1-vectors.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/1-vectors.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/1-vectors.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-05",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c5-2-sequentials.dir/2-sequentials.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/2-sequentials.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/2-sequentials.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-05",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c5-4-strings.dir/4-strings.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/4-strings.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/4-strings.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-05",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c5-5-tuples.dir/5-tuples.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/5-tuples.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/5-tuples.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/chap-05",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/c5-3-associatives.dir/3-associatives/main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/3-associatives/main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/chap-05/3-associatives/main.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-01",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp1-translator.dir/translator.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-01/translator.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-01/translator.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp2-reminders.dir/reminders.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-02/reminders.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-02/reminders.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-02",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp2-reminders.dir/Parsing.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-02/Parsing.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-02/Parsing.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11  -I/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/external -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -Winvalid-pch -x c++-header -include /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03/CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx -o CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx.gch -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03/CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx.cxx",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03/CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11  -I/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/external -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp3-pokemons.dir/Pokemons/Main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/Main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/Main.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11  -I/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/external -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -Winvalid-pch -include /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03/CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx -o CMakeFiles/tp3-pokemons.dir/Pokemons/PC.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/PC.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/PC.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11  -I/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/external -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -Winvalid-pch -include /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-03/CMakeFiles/tp3-pokemons.dir/cmake_pch.hxx -o CMakeFiles/tp3-pokemons.dir/Pokemons/Tests.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/Tests.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-03/Pokemons/Tests.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp4-phonecalls.dir/PhoneCalls/Main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-04/PhoneCalls/Main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-04/PhoneCalls/Main.cpp"
+},
+{
+  "directory": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/build/tp-04",
+  "command": "/usr/local/bin/x86_64-apple-darwin20-g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=c++17 -Wall -W -Werror -o CMakeFiles/tp4-shapes.dir/Shapes/main.cpp.o -c /Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-04/Shapes/main.cpp",
+  "file": "/Users/hugoattal/Documents/université/M1/s2/c++/CPP_Learning_Code/tp-04/Shapes/main.cpp"
+}
+]

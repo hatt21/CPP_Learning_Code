@@ -1,0 +1,1 @@
+/usr/local/bin/x86_64-apple-darwin20-g++-11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/c2-5-polygon.dir/5-polygon/main.cpp.o CMakeFiles/c2-5-polygon.dir/5-polygon/Polygon.cpp.o -o c2-5-polygon 
