@@ -6,18 +6,11 @@
 #include <cstdio>
 
 Boss::Boss(std::string_view name, std::string_view surname, unsigned int salary, bool is_nice)
-    : _name { name }
-    , _surname { surname }
-    , _salary { salary }
-    , _is_nice { is_nice }
-{}
-
-void Boss::increase_salary(unsigned int raise)
+    : Employee{name, surname, salary, Rank::TopManagement}, _is_nice{is_nice}
 {
-    _salary += raise;
 }
 
-void Boss::assign_task(Staff& staff) const
+void Boss::assign_task(Staff &staff) const
 {
     if (_is_nice)
     {
@@ -33,7 +26,7 @@ void Boss::assign_task(Staff& staff) const
     staff.receive_task();
 }
 
-void Boss::ask_coffee(Intern& intern) const
+void Boss::ask_coffee(Intern &intern) const
 {
     if (_is_nice)
     {
